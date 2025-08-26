@@ -1,4 +1,4 @@
-# MULTITHREADED-CHAT-APPLICATION
+    # MULTITHREADED-CHAT-APPLICATION
 
 *COMPANY*: CODTECH IT SOLUTIONS
 
@@ -92,3 +92,8 @@ Many businesses use chat servers for live support between customers and service 
 
 Distributed Systems and Cloud Computing:
 This project introduces concepts of handling multiple client requests simultaneously, which is the foundation for designing scalable web servers and distributed cloud services.
+
+## OUTPUT
+
+<img width="1914" height="1008" alt="Image" src="https://github.com/user-attachments/assets/95cb5530-58e4-4f0e-b931-20043e925b1c" />
+
